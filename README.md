@@ -1,6 +1,6 @@
 # Ahmed Salam
 
-Welcome to my GitHub profile! I'm Ahmed Salam, a passionate Data Scientist and Data Analyst with a strong background in Electrical and Computer Engineering. I specialize in machine learning, data analysis, and visualization, with a particular focus on solving real-world problems through data-driven insights.
+Welcome to my GitHub profile! I'm Ahmed Salam, a passionate Data Scientist and Data Analyst with a strong background in Computer Engineering. I specialize in data analysis, data visualization, and machine learning, with a particular focus on solving real-world problems through data-driven insights.
 
 ## 🌟 About Me
 
